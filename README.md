@@ -16,6 +16,12 @@
 ## Pagina Home:
   - Referencia:
     ![Home](home.png)
+  - Copia:
+    ![Home](HomeCopia.png)
+
+    
 ## Pagina News:
   - Referencia:
     ![News](news.png)
+  - Copia:
+    ![News](NewsCopia.png)
