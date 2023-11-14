@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import { View, Text, Image, FlatList } from "react-native";
 import { styles } from "./styles";
-import { ThumbsUp, MessageSquare, MoreHorizontal, Bell, Search, ChevronLeft, MoreVertical } from "react-native-feather";
+import { ThumbsUp, MessageSquare, Bell, Search, ChevronLeft, MoreVertical } from "react-native-feather";
 import profileImg from '../../assets/images/ProfileImg.png';
-import { MaterialCommunityIcons } from '@expo/vector-icons';
-import { MaterialIcons } from '@expo/vector-icons';
-import { FontAwesome, FontAwesome5 } from '@expo/vector-icons';
+import { MaterialCommunityIcons, MaterialIcons,FontAwesome, FontAwesome5 } from '@expo/vector-icons';
+
 import { CardVideo } from "../../components/CardVideo";
 
 export const News = () => {

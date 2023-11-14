@@ -1,7 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import { Text, TextInput, View, FlatList, Image} from 'react-native';
 import { styles } from "./styles";
-import { useState } from 'react';
 import profileImg from '../../assets/images/ProfileImg.png';
 import carouselImg from '../../assets/images/MW3.png';
 import { Search, MoreVertical, ChevronDown } from "react-native-feather";
