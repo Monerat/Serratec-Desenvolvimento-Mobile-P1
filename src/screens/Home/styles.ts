@@ -114,36 +114,15 @@ export const styles = StyleSheet.create({
         gap: 2
     },
 
-    // footer: {
-    //     height: '20%',
-    //     width: '100%',
-    //     flexDirection: 'row',
-        
-    // },
-    // footerHome: {
-    //     height: '100%',
-    //     width: '20%',        
-    //     alignItems: "center",        
-    // },
-    // footerNoticias: {
-    //     height: '100%',
-    //     width: '20%',
-    //     alignItems: "center"
-    // },
-    // footerSteamGuard: {
-    //     height: '100%',
-    //     width: '20%',
-    //     alignItems: "center"
-        
-    // },
-    // footerNotificacoes: {
-    //     height: '100%',
-    //     width: '20%',
-    //     alignItems: "center"
-    // },
-    // footerMenu: {
-    //     height: '100%',
-    //     width: '20%',
-    //     alignItems: "center"
-    // }
+    goldenJoyBanner: {
+        backgroundColor: "#19293b",
+    },
+
+    imageGoldenJoy: {
+        height: 250,
+        width: "96%",
+        marginTop: "10%",
+        marginLeft: "2%",
+        marginRight: "2%"
+    }
 });

@@ -80,6 +80,9 @@ export const Home = () => {
           />
         </View>
       </View>
+      <View style={styles.goldenJoyBanner}>
+        <Image style={styles.imageGoldenJoy} source={{uri:'https://i.ytimg.com/vi/KagVXPs_nA8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzosYy3JWXxOguQa0p-nYeod8idg'}} />
+      </View>
     </View>
   );
 };
